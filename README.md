@@ -29,8 +29,15 @@ Register App:
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 
-Reference to: https://github.com/bspaulding/react-custom-element
-              https://github.com/alessandrokonrad/React-Web-Component---Material-Design
+Reference to: 
+
+https://github.com/bspaulding/react-custom-element
+
+https://github.com/alessandrokonrad/React-Web-Component---Material-Design
+
+
+
+
 
 Available Scripts
 In the project directory, you can run:
