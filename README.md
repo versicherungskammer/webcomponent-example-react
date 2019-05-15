@@ -35,6 +35,8 @@ https://github.com/bspaulding/react-custom-element
 
 https://github.com/alessandrokonrad/React-Web-Component---Material-Design
 
+https://www.innoq.com/de/articles/2019/02/web-components/
+
 
 
 
