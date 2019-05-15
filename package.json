@@ -1,0 +1,40 @@
+{
+  "name": "react-web-component",
+  "version": "0.1.0",
+  "author": "Markus Beck",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^3.0.2",
+    "jss": "latest",
+    "material-ui": "^0.20.2",
+    "npm": "^6.7.0",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-custom-element": "^1.0.0",
+    "react-dom": "latest",
+    "react-jss": "^8.1.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "latest",
+    "react-web-component": "^1.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "description": "react-example",
+  "repository": "https://github.com/versicherungskammer/web-component-examples.git"
+}
